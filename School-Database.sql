@@ -1,3 +1,5 @@
+-- This is the code --
+
 CREATE TABLE `Students` (
 	`id` INT NOT NULL AUTO_INCREMENT,
 	`grade` FLOAT,
